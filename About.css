@@ -1,0 +1,75 @@
+ @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+        
+        body{
+            font-family: 'Ubuntu', sans-serif; 
+            max-width: 100%;
+            background-color: white;
+        }
+
+        h1{
+            font-size: 2em;
+        }
+       
+        p{
+            font-size: 1.3em;
+            color: black;
+            padding: 6px;
+            width: 170%; 
+        }
+        
+        
+        .logo{
+            font-size: 2em;
+            text-align: left;
+        }
+        .container{
+            width: 200%;
+            margin: 0;
+            background-color: white;
+            padding: 10px;
+        }
+            
+      .header-container header{
+            background-color: black;
+            color: #ff5812;
+            text-transform: uppercase;
+            padding: 10px;
+        }
+        
+        #contatct{
+            background-color: white;
+            color: black;
+            width: 56%;
+            float: left;
+            min-height: 500px;
+            padding: 5px 2%;
+            
+        }
+
+          footer{
+            padding: 50px ;
+            color: #e9c46a;
+            
+        }
+        footer h2{
+            font-size: 1.3rem;
+            color: white;
+            padding-bottom: 1px;
+            
+        }
+        footer .list-group-item{
+            color: black;
+            background-color: #ff5812;
+    
+            
+        }
+        
+
+        .footer-container{
+            background-color: #ff5812;
+            text-align: center;
+            padding: 30px; 
+        }
+        .clearfix{
+            clear: both;
+        }
